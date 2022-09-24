@@ -1,4 +1,4 @@
-[![MasterHead]([https://cms.makerobos.com/media/uploads/froala_editor/images/CHATBOT_RPA_Optimized.gif](https://gfycat.com/parchedwelldocumentedhylaeosaurus))
+[![MasterHead](https://gfycat.com/parchedwelldocumentedhylaeosaurus)
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
