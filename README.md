@@ -1,4 +1,4 @@
-[![MasterHead](https://gfycat.com/parchedwelldocumentedhylaeosaurus)
+[![MasterHead](https://thumbs.gfycat.com/ParchedWelldocumentedHylaeosaurus-mobile.mp4)
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
