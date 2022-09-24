@@ -1,4 +1,5 @@
-<center><img src="https://cdn.dribbble.com/users/5392055/screenshots/11652565/media/f9e881e7715a56bc5b2e6981334bba66.gif" alt="what image shows" height="200" width="400"></center>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);"
+ src="https://cdn.dribbble.com/users/5392055/screenshots/11652565/media/f9e881e7715a56bc5b2e6981334bba66.gif" width="" height="420">
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
