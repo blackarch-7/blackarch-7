@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/5392055/screenshots/11652565/media/f9e881e7715a56bc5b2e6981334bba66.gif)
+[![MasterHead](https://cdn.dribbble.com/users/5392055/screenshots/11652565/media/f9e881e7715a56bc5b2e6981334bba66.gif)]
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
