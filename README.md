@@ -1,4 +1,4 @@
-<center><img src="https://thumbs.gfycat.com/ParchedWelldocumentedHylaeosaurus.webp" alt="what image shows" height="300" width="800"></center>
+<center><img src="https://thumbs.gfycat.com/ParchedWelldocumentedHylaeosaurus.webp" alt="what image shows" height="300" width="500"></center>
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
