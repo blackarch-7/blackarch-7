@@ -3,7 +3,7 @@
  src="https://cms.makerobos.com/media/uploads/froala_editor/images/CHATBOT_RPA_Optimized.gif" width="1600" height="320">
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif")
+
 - 🔭 I’m currently working on [TryHackMe](https://blog.blackarch7.github.io)
 
 - 🌱 I’m currently learning **Cloud Security**
@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suyashjain901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashjain901" height="30" width="40" /></a>
+(img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif")
+ <a href="https://linkedin.com/in/suyashjain901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashjain901" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
