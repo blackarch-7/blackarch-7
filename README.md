@@ -6,6 +6,9 @@
 
 - 🌱 I’m currently learning **Lateral Movement**
 
+add Right Gif Image
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 - 👨‍💻 All of my projects are available at [https://blackarch7.github.io](https://blackarch7.github.io)
 
 - 📝 I write articles on [https://blog.blackarch7.github.io](https://blog.blackarch7.github.io)
