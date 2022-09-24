@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ParchedWelldocumentedHylaeosaurus.webp?w=1600&h=450)
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://thumbs.gfycat.com/ParchedWelldocumentedHylaeosaurus.webp" width="1600" height="480">
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
