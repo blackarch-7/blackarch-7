@@ -1,13 +1,10 @@
-<center><img src="https://thumbs.gfycat.com/ParchedWelldocumentedHylaeosaurus.webp" alt="what image shows" height="200" width="400"></center>
+<center><img src="https://cdn.dribbble.com/users/5392055/screenshots/11652565/media/f9e881e7715a56bc5b2e6981334bba66.gif" alt="what image shows" height="200" width="400"></center>
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
 - 🔭 I’m currently working on [TryHackMe](https://blog.blackarch7.github.io)
 
 - 🌱 I’m currently learning **Lateral Movement**
-
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 👨‍💻 All of my projects are available at [https://blackarch7.github.io](https://blackarch7.github.io)
 
