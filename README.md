@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [TryHackMe](https://blog.blackarch7.github.io)
 
-- 🌱 I’m currently learning **Lateral Movement**
+- 🌱 I’m currently learning **Cloud Security**
 
 - 👨‍💻 All of my projects are available at [https://blackarch7.github.io](https://blackarch7.github.io)
 
