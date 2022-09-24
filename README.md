@@ -1,6 +1,6 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);"
- src="https://cms.makerobos.com/media/uploads/froala_editor/images/CHATBOT_RPA_Optimized.gif" width="1400" height="480">
+ src="https://cms.makerobos.com/media/uploads/froala_editor/images/CHATBOT_RPA_Optimized.gif" width="1600" height="320">
 <h1 align="center">Hi 👋, I'm SUYASH JAIN</h1>
 <h3 align="center">A passionate security researcher from India</h3>
 
