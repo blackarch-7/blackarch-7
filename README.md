@@ -5,7 +5,7 @@
 <h3 align="center">A passionate security researcher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [TryHackMe](https://blog.blackarch7.github.io)
+- 🔭 I’m currently working on [Vulnerable Machines](https://blog.blackarch7.github.io)
 
 - 🌱 I’m currently learning **Cloud Security**
 
