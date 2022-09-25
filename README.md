@@ -47,7 +47,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334626i19EB833BB42CF8BB/image-size/large?v=v2&px=999" alt="Sentinel" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/152-1522254_aws-iam-logo-hd-png-download.png" alt="IAM" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVRbbUrroepGxv7VpnWNUdKDzh8qFI7sWqGipp09r1g&s" alt="Oracle Cloud" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/burp-suite.png" alt="Burpsuite" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofqRu5h6uWst0DLqvzrtn82nyGxHtVotzxLdfRCqsnA&s" alt="AWS" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" alt="Parrot OS" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
