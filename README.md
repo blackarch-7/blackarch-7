@@ -54,5 +54,5 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.threatblockr.com/wp-content/uploads/sans_logo-2.jpg" alt="SANS" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dcd071b62f1e115fab7776d9d8c267fc/zscaler-cloud-platform.jpg" alt="zscalar" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.tech-wiki.net/images/2/29/Zscaler_logo.png" alt="zscalar" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wHAWPTKTQDAtIKBJzN1L1AAAAA?pid=ImgDet&w=338&h=338&rs=1" alt="snort" width="40" height="40"/> </a> 
