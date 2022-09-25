@@ -37,7 +37,7 @@
 <h3 align="left">Tools and Solutions</h3>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/color/344/cloudflare.png" alt="Cloudflare" width="40" height="40" /> </a> 
-<a href="" target="_blank" rel="noreferrer" background-color: #ffffff;> <img src="https://img.icons8.com/ios/344/aws-cloudfront.png" alt="CloudFront" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer" background-color: #ffffff;> <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-cloudfront-logo-blog-header.png?itok=--W8Bjls" alt="CloudFront" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/889206171864903680/GkZz0T6s_400x400.jpg" alt="Qualys" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzuHxbAizbSDvl7cFDq-YfwwT9dcrpbQeTrTMR9gjRXw&s" alt="Acunetix" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutMF0i46RYg3e9PmodZyvvxiRIcTFfXBCvcORvuHKAQ&s" alt="HCL AppScan" width="40" height="40"/> </a> 
