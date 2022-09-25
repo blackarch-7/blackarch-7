@@ -20,7 +20,7 @@
 <p align="left">
  <a href="https://linkedin.com/in/suyashjain901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashjain901" height="30" width="40" /></a>
  <a href="https://tryhackme.com/p/archerysec07" target="blank"><img align="center" src="https://ciaconference.com/ymeeltuk/2020/11/the-ciacon.png" alt="tryhackme" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" alt="HackTheBox" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/suyashjain901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashjain901" height="30" width="40" /></a>
 
 </p>
 
@@ -33,6 +33,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.13071c9ba8301bd5fbde5858f918fda8?rik=HiArLRDb%2fCzMkA&riu=http%3a%2f%2fpngimg.com%2fuploads%2fphp%2fphp_PNG26.png&ehk=mjXRVhsLtsYrYbJCdumY6SHlSl6JGJ8NH3wz%2bTYy2CA%3d&risl=&pid=ImgRaw&r=0" alt="pHp" width="40" height="40"/> </a> 
 </p>
 
+
 <h3 align="left">Tools and Solutions</h3>
 <p align="left"> 
 <a href="" target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/color/344/cloudflare.png" alt="Cloudflare" width="40" height="40" /> </a> 
@@ -41,12 +42,12 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzuHxbAizbSDvl7cFDq-YfwwT9dcrpbQeTrTMR9gjRXw&s" alt="Acunetix" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutMF0i46RYg3e9PmodZyvvxiRIcTFfXBCvcORvuHKAQ&s" alt="HCL AppScan" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/lib/msf/core/web_services/public/favicon.ico" alt="Metasploit" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://breakdev.org/content/images/size/w600/2018/11/evilginx_blog_title_xmas.jpg" alt="Evilginx" width="40" height="40"/> </a> </p>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/Rapid7/avatar?imageSize=512" alt="Rapid7" width="40" height="40"/> </a> </p>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://breakdev.org/content/images/size/w600/2018/11/evilginx_blog_title_xmas.jpg" alt="Evilginx" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.nuget.org/profiles/Rapid7/avatar?imageSize=512" alt="Rapid7" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/334626i19EB833BB42CF8BB/image-size/large?v=v2&px=999" alt="Sentinel" width="40" height="40"/> </a> </p>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/152-1522254_aws-iam-logo-hd-png-download.png" alt="IAM" width="40" height="40"/> </a> </p>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/152-1522254_aws-iam-logo-hd-png-download.png" alt="IAM" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVRbbUrroepGxv7VpnWNUdKDzh8qFI7sWqGipp09r1g&s" alt="Oracle Cloud" width="40" height="40"/> </a> </p>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/burp-suite.png" alt="Burpsuite" width="40" height="40"/> </a> </p>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/burp-suite.png" alt="Burpsuite" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofqRu5h6uWst0DLqvzrtn82nyGxHtVotzxLdfRCqsnA&s" alt="AWS" width="40" height="40"/> </a> </p>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" alt="Parrot OS" width="40" height="40"/> </a> </p>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -55,3 +56,4 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.threatblockr.com/wp-content/uploads/sans_logo-2.jpg" alt="SANS" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_dcd071b62f1e115fab7776d9d8c267fc/zscaler-cloud-platform.jpg" alt="zscalar" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wHAWPTKTQDAtIKBJzN1L1AAAAA?pid=ImgDet&w=338&h=338&rs=1" alt="snort" width="40" height="40"/> </a> 
+
