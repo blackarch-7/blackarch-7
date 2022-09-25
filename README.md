@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/suyashjain901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashjain901" height="30" width="40" /></a>
- <a href="https://tryhackme.com/p/archerysec07" target="blank"><img align="center" src="https://ciaconference.com/ymeeltuk/2020/11/the-ciacon.png" alt="tryhackme" height="30" width="40" /></a>
+ <a href="https://tryhackme.com/p/archerysec07" target="blank"><img align="center" src="https://marcuswhited.tech/wp-content/uploads/2022/08/TryHackME-1.png" alt="tryhackme" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/suyashjain901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashjain901" height="30" width="40" /></a>
 
 </p>
