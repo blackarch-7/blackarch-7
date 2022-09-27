@@ -57,3 +57,4 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.tech-wiki.net/images/2/29/Zscaler_logo.png" alt="zscalar" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.wHAWPTKTQDAtIKBJzN1L1AAAAA?pid=ImgDet&w=338&h=338&rs=1" alt="snort" width="40" 
 height="40"/> </a>
+ height="40"/> </a>
